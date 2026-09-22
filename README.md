@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-内向-red) 
 ![](https://img.shields.io/badge/爱好-活着-red)
-![](https://img.shields.io/badge/目的-瞎琢磨-red)
+![](https://img.shields.io/badge/目的-瞎琢磨-blue)
 
 </div>
 
