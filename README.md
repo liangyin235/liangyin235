@@ -4,7 +4,7 @@
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=309481644&amp;theme=dark)
 
-[![bilibili](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://space.bilibili.com/309481644)
+[![bilibili](https://img.shields.io/badge/bilibili-凉城折纸-yello)](https://space.bilibili.com/309481644)
  
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-内向-red) 
