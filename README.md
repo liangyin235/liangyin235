@@ -4,7 +4,7 @@
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=309481644&amp;theme=dark)
 
-![Visitor Count](https://profile-counter.glitch.me/{liangyin235}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/liangyin235/count.svg)
 
 [![bilibili](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](space.bilibili.com/309481644)
  
